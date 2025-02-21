@@ -9,10 +9,13 @@ Additional names:
 News:
 - https://ozina.org/
 - https://www.ilsecoloxix.it (Mostly in Italian, has some Ligurian sections.)
+- https://ostafi.net
+- https://www.primocanale.it/ (very little content in Ligurian)
 
 Culture / History:
 - https://conseggio-ligure.org/ (Trilingual website: URLs starting with `/it/` are Italian translations, those starting with `/en/` are English translations; everything else is in Ligurian.)
 - https://sbiro.eu/ (Trilingual website: URLs starting with `/ita/` are Italian translations, those starting with `/eng/` are English translations; everything else is in Ligurian.)
+- https://www.lunaio.org/
 
 Government:
 - 
